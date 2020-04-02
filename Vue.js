@@ -3,7 +3,7 @@ var app = new Vue({
   data: {
     message: "",
     seen: false,
-    username: "",
+    username: "Change Username",
     counter1: 0,
     counter2: 0,
     myImage: ""
